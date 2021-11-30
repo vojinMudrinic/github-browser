@@ -1,3 +1,6 @@
+#To start the app, you need to install node packet manager in the terminal (npm install) in the github-browser folder
+After that, type npm start in terminal that will open http://localhost:3000 in your browser and you will be able to use the app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
